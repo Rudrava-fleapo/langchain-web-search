@@ -1,6 +1,6 @@
 # AI Chatbot with Web Search and Streaming
 
-This project implements a responsive AI chatbot that integrates web search from **Perplexity AI** and **Google Gemini's native search grounding**. It supports multiple LLMs (OpenAI, Google, Anthropic) and provides a **streaming user experience**.
+This project implements a responsive AI chatbot that integrates web search from **Perplexity AI**
 
 ## Features
 
